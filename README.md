@@ -10,9 +10,14 @@ This project leverages acoustic cast shadow information observed from two viewpo
 The acoustic camera provides two data formats: the original displaced polar-coordinate raw data and the converted Cartesian-coordinate images.
 The latter supports both grayscale and pseudo-color display modes.
 
-# Acoustic cast shadows demo
+# Acoustic Cast Shadow Demo
 An acoustic cast shadow is the dark region in a sonar image caused when an object on the seafloor blocks acoustic waves, preventing them from reaching the area behind it. 
 The shadow's shape and length are closely related to the object's height and the sonar's viewing angle, making it a key cue for 3-D information inference from sonar imagery.
 ![Acoustic cast shadows demo](https://github.com/user-attachments/assets/d3c3d786-7a46-4db6-b6ee-8371fd49ab1e)
 
 
+# Acoustic Data Processing
+Metafile initialization: [https://github.com/SoundMetrics/aris-integration-sdk]
+Acoustic simulation: [https://github.com/sollynoay/Sonar-simulator-blender]
+
+An enhanced version featuring adaptive shadow modeling for varying seafloor geometries and sonar altitudes is currently under development.
