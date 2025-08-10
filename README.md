@@ -21,3 +21,6 @@ Metafile initialization: [https://github.com/SoundMetrics/aris-integration-sdk]
 Acoustic simulation: [https://github.com/sollynoay/Sonar-simulator-blender]
 
 An enhanced version featuring adaptive shadow modeling for varying seafloor geometries and sonar altitudes is currently under development.
+
+# Acknowledgment
+The authors would like to thank Sound Metrics Corp.[https://github.com/SoundMetrics/aris-integration-sdk] for their valuable technical insights and knowledge sharing in the areas of underwater acoustic data acquisition and lightweight processing, which greatly supported the development of this project.
