@@ -1,4 +1,4 @@
-# Acoustic_3D_Measurement
+# Acoustic_Camera_3D_Measurement_EXP
 
 # Project Introduction
 This project presents a lightweight and efficient method for 3D seabed target measurement using a single forward-looking sonar (FLS), specifically the ARIS EXPLORER 3000 (Acoustic Camera). 
